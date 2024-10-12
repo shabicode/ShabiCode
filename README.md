@@ -1,7 +1,7 @@
 <h1 align="center">⋆౨ৎ˚⟡˖ ࣪𝐻𝑖 𝐼'𝑚 🍰🎀 𝒜𝓃𝒹𝓇𝑒𝒶 ( 𝒮𝒽𝒶𝒷𝒾𝒸𝑜𝒹𝑒 ) ⋆౨ৎ˚⟡˖ ࣪</h1>
 <h3 align="center">𝑃𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 .𝑁𝐸𝑇 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟, 𝑒𝑎𝑔𝑒𝑟 𝑡𝑜 𝑙𝑒𝑎𝑟𝑛 𝑎𝑛𝑑 𝑔𝑟𝑜𝑤. 𝐴𝑙𝑤𝑎𝑦𝑠 𝑟𝑒𝑎𝑑𝑦 𝑓𝑜𝑟 𝑛𝑒𝑤 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠 𝑎𝑛𝑑 𝑒𝑥𝑝𝑎𝑛𝑑𝑖𝑛𝑔 𝑚𝑦 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1VQOm5xLLstxJCY_OFP9CbZr8UeEe8uyh">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/dc/4d/f9/dc4df931eab16d3de9df5233b3018f42.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabicode&label=Profile%20views&color=0e75b6&style=flat" alt="shabicode" /> </p>
 
