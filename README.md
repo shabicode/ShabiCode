@@ -7,7 +7,7 @@
 
 - 🥕 𝐼’𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔ing **𝐴𝑛𝑔𝑢𝑙𝑎𝑟, 𝐺𝑟𝑎𝑝ℎ𝑞𝑙, 𝐴𝑧𝑢𝑟𝑒 𝐷𝑒𝑣𝑂𝑝𝑠**
 
-- 𓍢ִ໋🌷͙֒ ᰔᩚ 𝐼 𝑟𝑒𝑔𝑢𝑙𝑎𝑟𝑙𝑦 𝑤𝑟𝑖𝑡𝑒 𝑎𝑟𝑡𝑖𝑐𝑙𝑒𝑠 𝑜𝑛 [ℎ𝑡𝑡𝑝𝑠://𝑤𝑤𝑤.𝑖𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚.𝑐𝑜𝑚/𝑠ℎ𝑎𝑏𝑖𝑐𝑜𝑑𝑒/](https://www.instagram.com/shabicode/)
+- 𓍢ִ໋🌷͙֒ (https://www.instagram.com/shabicode/)
 
 - 💬 𝐴𝑠𝑘 𝑚𝑒 𝑎𝑏𝑜𝑢𝑡 **.𝒩𝑒𝓉 𝒲𝑒𝒷 𝒜𝓅𝒾𝓈**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/monicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monicode" height="30" width="40" /></a>
 <a href="https://instagram.com/shabicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shabicode" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shabicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shabicode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shabicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shabicode" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shabicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shabicode" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/shabicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="shabicode" height="30" width="40" /></a>
 </p>
