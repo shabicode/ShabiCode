@@ -1,9 +1,8 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,50:e8c547,100:c9a0dc&height=200&section=header&text=Her%20Meowjesty%20👑&fontSize=55&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=Royal%20Purrgrammer%20of%20the%20.NET%20Kingdom&descAlignY=55&descSize=18"/>
 
 <p align="center">
   <a href="https://github.com/shabicode">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=600&lines=Hi!+I'm+Moni+🐈‍⬛;Passionate+.NET+developer+👑;Bug+hunter+like+a+cat+chasing+a+laser+🐛;It+works+on+my+throne+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=600&lines=Hi!+I%27m+Moni;Passionate+.NET+developer;Bug+hunter+like+a+cat+chasing+a+laser;It+works+on+my+throne" alt="Typing SVG" />
   </a>
 </p>
 
@@ -59,7 +58,7 @@
 
 ### 📈 Royal Activity:
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shabicode&bg_color=1a1a1a&color=d8c8d4&line=d4af37&point=c9a0dc&area=true&area_color=d4af37&title_color=d4af37&hide_border=false" alt="activity graph" />
+  <img width="100%" src="https://ghchart.rshah.org/d4af37/shabicode" alt="contributions chart" />
 </p>
 
 ### 🐍 The Royal Snake eating my contributions:
@@ -68,4 +67,5 @@
 </p>
 
 <p align="center"><i>~ Long live the code 👑🐾 ~</i></p>
- 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a0dc,50:e8c547,100:d4af37&height=120&section=footer"/>
