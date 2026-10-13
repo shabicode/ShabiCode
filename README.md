@@ -8,10 +8,7 @@
 
 <img align="right" alt="Royal kitty" width="300" src="https://i.pinimg.com/736x/fb/6a/15/fb6a153332ce58b7c2535abc70505fa6.jpg">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shabicode&label=Royal%20visitors&color=d4af37&style=flat" alt="shabicode" />
-</p>
-
+ 
 ### 📜 Royal Decree
 
 - 👑 Ruling over C#, .NET and Angular
