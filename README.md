@@ -68,8 +68,4 @@
 </p>
 
 <p align="center"><i>~ Long live the code 👑🐾 ~</i></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a0dc,50:e8c547,100:d4af37&height=120&section=footer"/>r=d8c8d4&line=d4af37&point=c9a0dc&area=true&area_color=d4af37&title_color=d4af37&hide_border=false" alt="activity graph" />
-</p>
  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a0dc,50:e8c547,100:d4af37&height=120&section=footer"/>
