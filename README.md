@@ -1,14 +1,18 @@
-<h1 align="center">👑 Her Meowjesty 🐈‍⬛</h1>
-<h3 align="center">⋆౨ৎ˚⟡ Royal Purrgrammer of the .NET Kingdom ⟡˚౨ৎ⋆</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,50:e8c547,100:c9a0dc&height=200&section=header&text=Her%20Meowjesty%20👑&fontSize=55&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=Royal%20Purrgrammer%20of%20the%20.NET%20Kingdom&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <i>Passionate .NET developer, eager to learn and grow.<br>
-  Always ready for new challenges (and new bugs to conquer). 🐾</i>
+  <a href="https://github.com/shabicode">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=600&lines=Hi!+I'm+Moni+🐈‍⬛;Passionate+.NET+developer+👑;Bug+hunter+like+a+cat+chasing+a+laser+🐛;It+works+on+my+throne+✨" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shabicode&label=Royal%20visitors&color=d4af37&style=for-the-badge" alt="visitors" />
 </p>
 
 <img align="right" alt="Royal kitty" width="300" src="https://i.pinimg.com/736x/fb/6a/15/fb6a153332ce58b7c2535abc70505fa6.jpg">
 
- 
 ### 📜 Royal Decree
 
 - 👑 Ruling over C#, .NET and Angular
@@ -53,4 +57,26 @@
   <img src="https://streak-stats.demolab.com/?user=shabicode&background=1a1a1a&border=d4af37&ring=d4af37&fire=e8c547&currStreakLabel=d4af37&sideLabels=d8c8d4&currStreakNum=d8c8d4&sideNums=d8c8d4&dates=a99aa5" alt="shabicode streak" />
 </p>
 
+### 📈 Royal Activity:
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shabicode&bg_color=1a1a1a&color=d8c8d4&line=d4af37&point=c9a0dc&area=true&area_color=d4af37&title_color=d4af37&hide_border=false" alt="activity graph" />
+</p>
+
+### 🐍 The Royal Snake eating my contributions:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shabicode/shabicode/output/github-snake-dark.svg" alt="snake animation" />
+</p>
+
 <p align="center"><i>~ Long live the code 👑🐾 ~</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a0dc,50:e8c547,100:d4af37&height=120&section=footer"/>r=d8c8d4&line=d4af37&point=c9a0dc&area=true&area_color=d4af37&title_color=d4af37&hide_border=false" alt="activity graph" />
+</p>
+
+### 🐍 The Royal Snake eating my contributions:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shabicode/shabicode/output/github-snake-dark.svg" alt="snake animation" />
+</p>
+
+<p align="center"><i>~ Long live the code 👑🐾 ~</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a0dc,50:e8c547,100:d4af37&height=120&section=footer"/>
