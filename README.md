@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/dc/4d/f9/dc4df931eab16d3de9df5233b3018f42.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shabicode&label=Royal%20visitors&color=d4af37&style=flat" alt="shabicode" />
+  <img src="[https://komarev.com/ghpvc/?username=shabicode&label=Royal%20visitors&color=d4af37&style=flat" alt="shabicode](https://i.pinimg.com/736x/fb/6a/15/fb6a153332ce58b7c2535abc70505fa6.jpg)" />
 </p>
 
 ### 📜 Royal Decree
