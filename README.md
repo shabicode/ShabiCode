@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shabicode&label=Royal%20visitors&color=d4af37&style=for-the-badge" alt="visitors" />
+  <i>Passionate .NET developer, eager to learn and grow.<br>
+  Always ready for new challenges (and new bugs to conquer). 🐾</i>
 </p>
 
 <img align="right" alt="Royal kitty" width="300" src="https://i.pinimg.com/736x/fb/6a/15/fb6a153332ce58b7c2535abc70505fa6.jpg">
@@ -54,11 +55,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shabicode&background=1a1a1a&border=d4af37&ring=d4af37&fire=e8c547&currStreakLabel=d4af37&sideLabels=d8c8d4&currStreakNum=d8c8d4&sideNums=d8c8d4&dates=a99aa5" alt="shabicode streak" />
-</p>
-
-### 📈 Royal Activity:
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/d4af37/shabicode" alt="contributions chart" />
 </p>
 
 ### 🐍 The Royal Snake eating my contributions:
